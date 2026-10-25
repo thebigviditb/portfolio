@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Smarter Fabrics",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Founder, July 2026 to present. A single-IMU prototype that detects forward and side lean in back squat form, built to pressure-test a robotics training-data thesis with practitioners."
+  },
+  {
+    "title": "InTension",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Founder, May 2026 to June 2026. A social skills coach that answers questions with situation-specific advice, backed by a RAG pipeline over a 150-video corpus and deployed on AWS Amplify with Cognito auth."
+  },
+  {
+    "title": "uCTRL.ai record-sharing portal",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A portal where clinicians redeem a patient-issued six-digit code to view a medical record, plus an OCR engine that logs medications from a photo."
+  },
+  {
+    "title": "uCTRL.ai outbound GTM system",
+    "year": "2025",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Clay automations that source and enrich telehealth-clinic leads against a scored ICP and feed Instantly (email) and Botdog (LinkedIn) as one sequenced multi-channel motion."
+  },
+  {
+    "title": "Opkey OCR + PII detection pipeline",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "An OCR and PII detection pipeline with sampling and early inference algorithms that narrow scan scope, reaching 98% detection accuracy on benchmark datasets."
+  },
+  {
+    "title": "Opkey LLM tool-calling workflows",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Replaced traditional UI workflows with tool-calling LLMs, cutting the number of screens a user had to navigate to complete a task."
+  },
+  {
+    "title": "Santa Cruz Golf Community",
+    "year": "2024",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Founded a golf community for students at UC Santa Cruz."
+  },
+  {
+    "title": "DSC 106 Lab 1: Portfolio site",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "A personal site with home, projects, contact form, and resume pages, written in plain HTML and hosted on GitHub Pages."
+  },
+  {
+    "title": "DSC 106 Lab 2: Styling with CSS",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Styled the portfolio with CSS: a flexbox nav bar, a subgrid contact form, a responsive projects grid, and a resume layout."
+  },
+  {
+    "title": "DSC 106 Lab 4: JavaScript II",
+    "year": "2026",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Rendered projects from a JSON file with reusable JavaScript modules and pulled live profile stats from the GitHub API."
+  },
+  {
+    "title": "Placeholder project",
+    "year": "2022",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam dolor quos, quod assumenda explicabo odio."
+  },
+  {
+    "title": "Placeholder project",
+    "year": "2023",
+    "image": "https://vis-society.github.io/labs/2/images/empty.svg",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam dolor quos, quod assumenda explicabo odio."
+  }
+]

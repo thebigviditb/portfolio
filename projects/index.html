@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Projects - Vidit Batta</title>
   <link rel="stylesheet" href="../style.css">
+  <script src="../global.js" type="module"></script>
+  <script src="projects.js" type="module"></script>
 </head>
 <body>
   <nav>
@@ -15,26 +17,10 @@
     <a href="https://github.com/thebigviditb" target="_blank">GitHub</a>
   </nav>
 
-  <h1>Projects</h1>
+  <h1 class="projects-title">Projects</h1>
 
   <div class="projects">
-    <article>
-      <h2>Smarter Fabrics</h2>
-      <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="">
-      <p>Founder, July 2026 to present. A single-IMU prototype that detects forward and side lean in back squat form, built to pressure-test a robotics training-data thesis with practitioners.</p>
-    </article>
-
-    <article>
-      <h2>InTension</h2>
-      <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="">
-      <p>Founder, May 2026 to June 2026. A social skills coach that answers questions with situation-specific advice, backed by a RAG pipeline over a 150-video corpus and deployed on AWS Amplify with Cognito auth.</p>
-    </article>
-
-    <article>
-      <h2>uCTRL.ai record-sharing portal</h2>
-      <img src="https://vis-society.github.io/labs/2/images/empty.svg" alt="">
-      <p>A portal where clinicians redeem a patient-issued six-digit code to view a medical record, plus an OCR engine that logs medications from a photo.</p>
-    </article>
+    <!-- Projects are rendered from lib/projects.json by projects.js -->
   </div>
 </body>
 </html>
